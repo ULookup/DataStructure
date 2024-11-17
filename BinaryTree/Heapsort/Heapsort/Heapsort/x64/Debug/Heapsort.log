@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : 对路径“e:\code\2024\exe\heapsort\heapsort\x64\debug\heapsort.exe”的访问被拒绝。
+  Heapsort.c
+LINK : fatal error LNK1104: 无法打开文件“E:\Code\2024\Exe\Heapsort\Heapsort\x64\Debug\Heapsort.exe”

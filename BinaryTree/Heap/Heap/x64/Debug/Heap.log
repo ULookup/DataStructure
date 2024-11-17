@@ -1,0 +1,5 @@
+﻿  Heap.c
+E:\Code\2024\Exe\Heap\Heap\Heap.c(29,27): warning C4028: 形参 1 与声明不同
+  test.c
+  正在生成代码...
+  Heap.vcxproj -> E:\Code\2024\Exe\Heap\x64\Debug\Heap.exe
